@@ -1,0 +1,13 @@
+name: 'Webform Shortcuts'
+type: module
+description: 'Provides configurable keyboard shortcuts to create and save webform elements.'
+package: 'Webform'
+core_version_requirement: ^9.4 || ^10
+dependencies:
+  - 'webform:webform'
+  - 'webform:webform_ui'
+
+# Information added by Drupal.org packaging script on 2022-12-14
+version: '6.2.0-beta3+126-dev'
+project: 'webform'
+datestamp: 1671042063
